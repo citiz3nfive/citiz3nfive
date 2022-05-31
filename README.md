@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @citiz3nfive
-- 👀 I’m interested in ... Coding, Cyber Security, Ethical Hacking & CTF.
-- 🌱 I’m currently learning ... Linux Command, Kali Linux.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Coding, Programming, Ethical Hacking & CTF.
+- 🌱 I’m currently learning ... Python, Linux Command line.
+- 💞️ I’m looking to collaborate on ... Any projects to help sharpen my skills.
 - 📫 How to reach me ...
 
 <!---

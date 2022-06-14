@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @citiz3nfive
-- 👀 I’m interested in ... Coding, Programming, Ethical Hacking & CTF.
-- 🌱 I’m currently learning ... Python, Linux Command line.
+- 👀 I’m interested in ... Full-stack Web Development, Programming and coding.
+- 🌱 I’m currently learning ... HTML5, CSS, JS, Python, AWS & GIT.
 - 💞️ I’m looking to collaborate on ... Any projects to help sharpen my skills.
 - 📫 How to reach me ...
 

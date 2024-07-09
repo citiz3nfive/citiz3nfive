@@ -1,5 +1,5 @@
 About Me
-👋 Hi, I'm @citiz3nfive, a passionate developer and tech enthusiast.
+👋 Hi, I'm @citiz3nfive, a passionate developer, engineer and tech enthusiast.
 
 Interests
 I'm deeply interested in:

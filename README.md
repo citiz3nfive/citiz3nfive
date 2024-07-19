@@ -7,7 +7,7 @@ Full-stack Web Development
 Programming
 Cyber Security
 Coding
-API Integration and Automation
+API Integration and Automation.
 Current Learning Path
 I'm currently expanding my skill set in:
 HTML5

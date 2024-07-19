@@ -16,7 +16,7 @@ JavaScript
 Python
 AWS
 Git
-Collaboration
+
 I'm eager to collaborate on projects that can:
 Sharpen my skills
 Drive innovation

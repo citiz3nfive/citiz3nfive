@@ -8,7 +8,6 @@ Programming
 Cyber Security
 Coding
 API Integration and Automation
-
 Current Learning Path
 I'm currently expanding my skill set in:
 HTML5
@@ -17,13 +16,11 @@ JavaScript
 Python
 AWS
 Git
-
 Collaboration
 I'm eager to collaborate on projects that can:
 Sharpen my skills
 Drive innovation
 Foster knowledge sharing
-
 Projects
 Here are some of the key projects I've worked on:
 News Fetch Bot

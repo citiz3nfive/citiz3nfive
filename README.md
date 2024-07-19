@@ -1,6 +1,14 @@
 About Me
 👋 Hi, I'm @citiz3nfive, a passionate developer, engineer and tech enthusiast.
 
+      o8o      .    o8o                                    .o88o.  o8o                       
+           `"'    .o8    `"'                                    888 `"  `"'                       
+ .ooooo.  oooo  .o888oo oooo    oooooooo  .ooooo.  ooo. .oo.   o888oo  oooo  oooo    ooo  .ooooo. 
+d88' `"Y8 `888    888   `888   d'""7d8P  d88' `88b `888P"Y88b   888    `888   `88.  .8'  d88' `88b
+888        888    888    888     .d8P'   888ooo888  888   888   888     888    `88..8'   888ooo888
+888   .o8  888    888 .  888   .d8P'  .P 888    .o  888   888   888     888     `888'    888    .o
+`Y8bod8P' o888o   "888" o888o d8888888P  `Y8bod8P' o888o o888o o888o   o888o     `8'     `Y8bod8P'
+
 Interests
 I'm deeply interested in:
 Full-stack Web Development
